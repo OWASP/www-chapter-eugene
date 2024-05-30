@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Michael Calabrese](mailto:michael.calabrese@owasp.org )
+* [Michael King](mailto:michael.king@owasp.org)
